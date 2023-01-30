@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.Form1.resources
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\bin\Debug\net6.0-windows\LAB4Encapsulation.exe
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\bin\Debug\net6.0-windows\LAB4Encapsulation.deps.json
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\bin\Debug\net6.0-windows\LAB4Encapsulation.runtimeconfig.json
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\bin\Debug\net6.0-windows\LAB4Encapsulation.dll
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\bin\Debug\net6.0-windows\LAB4Encapsulation.pdb
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.dll
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\refint\LAB4Encapsulation.dll
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.pdb
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\LAB4Encapsulation.genruntimeconfig.cache
+C:\Users\Admin\Desktop\oop\LAB4Encapsulation\LAB4Encapsulation\obj\Debug\net6.0-windows\ref\LAB4Encapsulation.dll
